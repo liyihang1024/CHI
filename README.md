@@ -2,6 +2,8 @@
 
 这个脚本用于将辰华CHI电化学工作站测试的OER数据一键绘图，做到真正的解放双手！
 
+![图片](./images/usage.gif)
+
 ## 目录
 
 - [辰华CHI电化学工作站测试数据一键绘图！](#辰华chi电化学工作站测试数据一键绘图)
@@ -60,7 +62,7 @@ scripts_dir
 
 ## 作者
 
-该软件主要由LiYIhang在[冯凌燕](https://www.x-mol.com/groups/flygroup)教授的指导下编写。
+该软件主要由LiYhang在[冯凌燕](https://www.x-mol.com/groups/flygroup)教授的指导下编写。
 
 ## License
 
