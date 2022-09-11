@@ -62,7 +62,7 @@ scripts_dir
 
 ## 作者
 
-该软件主要由LiYhang在[冯凌燕](https://www.x-mol.com/groups/flygroup)教授的指导下编写。
+该软件主要由LiYihang在[冯凌燕](https://www.x-mol.com/groups/flygroup)教授的指导下编写。
 
 ## License
 
